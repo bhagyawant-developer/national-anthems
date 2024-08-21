@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "name": "India",
+      "flag": "/flags/india.jpg",
+      "anthem": "/anthems/indian_national_anthem.mp3",
+      "independence": "15th August 1947",
+      "history": "India gained independence from British rule on 15th August 1947 after a long struggle led by various freedom fighters.",
+      "founder": "Mahatma Gandhi",
+      "freedom_fighters": ["Bhagat Singh", "Subhas Chandra Bose", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"],
+      "specialty": "India is known for its rich cultural heritage, diverse religions, and being the world's largest democracy."
+    },
+    {
+      "id": 2,
+      "name": "United States",
+      "flag": "/flags/united_states.jpg",
+      "anthem": "/anthems/united_states_national_anthem.mp3",
+      "independence": "4th July 1776",
+      "history": "The United States declared independence from Great Britain on July 4, 1776, marking the birth of the nation.",
+      "founder": "George Washington",
+      "freedom_fighters": ["Thomas Jefferson", "John Adams", "Benjamin Franklin", "Patrick Henry"],
+      "specialty": "The United States is known for its innovation, cultural diversity, and being a global leader in various fields."
+    },
+    {
+      "id": 3,
+      "name": "France",
+      "flag": "/flags/france.jpg",
+      "anthem": "/anthems/french_national_anthem.mp3",
+      "independence": "14th July 1789 (Bastille Day)",
+      "history": "The French Revolution began in 1789, leading to the overthrow of the monarchy and the establishment of a republic.",
+      "founder": "Napoleon Bonaparte",
+      "freedom_fighters": ["Maximilien Robespierre", "Georges Danton", "Jean-Paul Marat"],
+      "specialty": "France is renowned for its cuisine, fashion, art, and being the birthplace of the Enlightenment."
+    },
+    {
+      "id": 4,
+      "name": "South Africa",
+      "flag": "/flags/south_africa.jpg",
+      "anthem": "/anthems/south_african_national_anthem.mp3",
+      "independence": "31st May 1961",
+      "history": "South Africa became a republic on 31st May 1961, breaking away from British rule. The struggle against apartheid marked a significant chapter in its history.",
+      "founder": "Nelson Mandela",
+      "freedom_fighters": ["Oliver Tambo", "Walter Sisulu", "Steve Biko"],
+      "specialty": "South Africa is known as the 'Rainbow Nation' for its multicultural diversity and is famous for its natural beauty and wildlife."
+    },
+    {
+      "id": 5,
+      "name": "Brazil",
+      "flag": "/flags/brazil.jpg",
+      "anthem": "/anthems/brazilian_national_anthem.mp3",
+      "independence": "7th September 1822",
+      "history": "Brazil declared independence from Portugal on 7th September 1822, becoming a sovereign nation.",
+      "founder": "Dom Pedro I",
+      "freedom_fighters": ["José Bonifácio", "Tiradentes"],
+      "specialty": "Brazil is known for its vibrant culture, the Amazon rainforest, and being the largest country in South America."
+    },
+    {
+      "id": 6,
+      "name": "Japan",
+      "flag": "/flags/japan.jpg",
+      "anthem": "/anthems/japanese_national_anthem.mp3",
+      "independence": "660 BC (Legendary Foundation)",
+      "history": "Japan is said to have been founded in 660 BC by Emperor Jimmu, according to legend. The country underwent modernization during the Meiji Restoration.",
+      "founder": "Emperor Jimmu",
+      "freedom_fighters": ["Saigo Takamori", "Sakamoto Ryoma"],
+      "specialty": "Japan is famous for its advanced technology, traditional arts, and unique blend of the ancient and modern."
+    },
+    {
+      "id": 7,
+      "name": "Australia",
+      "flag": "/flags/australia.jpg",
+      "anthem": "/anthems/australian_national_anthem.mp3",
+      "independence": "1st January 1901 (Federation)",
+      "history": "Australia became a federation on 1st January 1901, uniting the six colonies into one nation under the British Crown.",
+      "founder": "Sir Henry Parkes",
+      "freedom_fighters": ["William Wentworth", "Peter Lalor"],
+      "specialty": "Australia is known for its diverse ecosystems, the Great Barrier Reef, and being one of the world's most urbanized countries."
+    },
+    {
+      "id": 8,
+      "name": "China",
+      "flag": "/flags/china.jpg",
+      "anthem": "/anthems/chinese_national_anthem.mp3",
+      "independence": "1st October 1949 (Founding of PRC)",
+      "history": "The People's Republic of China was founded on 1st October 1949 after the Chinese Civil War, led by the Communist Party under Mao Zedong.",
+      "founder": "Mao Zedong",
+      "freedom_fighters": ["Sun Yat-sen", "Zhou Enlai"],
+      "specialty": "China is known for its ancient civilization, the Great Wall, and being the world's most populous country."
+    },
+    {
+      "id": 9,
+      "name": "Germany",
+      "flag": "/flags/germany.jpg",
+      "anthem": "/anthems/germany_national_anthem.mp3",
+      "independence": "3rd October 1990 (Reunification)",
+      "history": "Germany was reunified on 3rd October 1990 after the fall of the Berlin Wall, bringing together East and West Germany.",
+      "founder": "Otto von Bismarck",
+      "freedom_fighters": ["Willy Brandt", "Konrad Adenauer"],
+      "specialty": "Germany is renowned for its engineering, cultural history, and as a leading economic power in Europe."
+    },
+    {
+      "id": 10,
+      "name": "Italy",
+      "flag": "/flags/italy.jpg",
+      "anthem": "/anthems/italian_national_anthem.mp3",
+      "independence": "17th March 1861 (Unification)",
+      "history": "Italy was unified on 17th March 1861, marking the consolidation of various states into one nation under King Victor Emmanuel II.",
+      "founder": "Giuseppe Garibaldi",
+      "freedom_fighters": ["Giuseppe Mazzini", "Camillo Benso di Cavour"],
+      "specialty": "Italy is known for its rich history, art, fashion, and cuisine, as well as being the birthplace of the Renaissance."
+    }
+  ]
+  
